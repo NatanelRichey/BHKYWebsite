@@ -1,0 +1,10 @@
+{
+  "name": "bhky-website",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"Add your dev server command (e.g. vite, next dev)\"",
+    "build": "echo \"Add your build command (e.g. vite build, next build)\"",
+    "start": "echo \"Add your start command (e.g. next start)\""
+  }
+}
